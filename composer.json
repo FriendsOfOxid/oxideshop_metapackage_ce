@@ -96,5 +96,10 @@
     "oxid-esales/gdpr-optin-module": "~v4.3.0",
     "oxid-esales/media-library-module": "~v3.0.0||~4.2.0",
     "oxid-professional-services/usercentrics": "~v3.2.1"
+  },
+  "archive": {
+    "exclude": [
+      "/.agents/**"
+    ]
   }
 }
